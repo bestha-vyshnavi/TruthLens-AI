@@ -280,9 +280,9 @@ with col3:
     st.metric("Accuracy (Prototype)", "94%")
 
 st.markdown("---")
- m n # ===============================
+# =========================
 # HOW IT WORKS
-# ===============================
+# =========================
 
 st.subheader("⚙️ How TruthLens AI Works")
 
