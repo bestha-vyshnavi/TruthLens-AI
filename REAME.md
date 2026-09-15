@@ -1,3 +1,12 @@
+## Live Demo
+
+[Try TruthLens AI](## Live Demo
+
+[Try TruthLens AI](https://truthlens-ai-nq7qjypf8rjryb7wggqthe.streamlit.app/)
+
+
+
+
 TruthLens AI 🔍
 
 Verify Before You Share
